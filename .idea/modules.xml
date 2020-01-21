@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/ocr.iml" filepath="$PROJECT_DIR$/.idea/ocr.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../pymunktest/.idea/pymunktest.iml" filepath="$PROJECT_DIR$/../pymunktest/.idea/pymunktest.iml" />
     </modules>
   </component>
 </project>
