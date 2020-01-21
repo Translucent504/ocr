@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9f38d22f-e15b-44bf-955d-90943d853e72" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="ocr" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="Shayaan Ahmed Farooqi &lt;fleshlime.1@gmail.com&gt;" />
+      </list>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1WPzlbL2BZTxhvBsXSkJTVYW5Lz" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+  <component name="RunManager" selected="Python.ocr">
+    <configuration name="example" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pymunktest" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../pymunktest" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../pymunktest/example.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="ocr" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="ocr" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ocr.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.ocr" />
+        <item itemvalue="Python.example" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9f38d22f-e15b-44bf-955d-90943d853e72" name="Default Changelist" comment="" />
+      <created>1579066169798</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1579066169798</updated>
+    </task>
+    <task id="LOCAL-00001" summary="initial commit">
+      <created>1579067020759</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1579067020759</updated>
+    </task>
+    <task id="LOCAL-00002" summary="initial commit">
+      <created>1579583161767</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1579583161767</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="initial commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="initial commit" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="285" y="179" width="1183" height="901" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1579245531295">
+      <screen x="83" y="34" width="1837" height="1046" />
+    </state>
+    <state x="285" y="179" width="1183" height="901" key="#com.intellij.execution.impl.EditConfigurationsDialog/83.34.1837.1046@83.34.1837.1046" timestamp="1579245531295" />
+    <state x="651" y="72" width="777" height="807" key="CommitChangelistDialog2" timestamp="1579586624683">
+      <screen x="55" y="27" width="1865" height="1053" />
+    </state>
+    <state x="651" y="72" width="777" height="807" key="CommitChangelistDialog2/55.27.1865.1053@55.27.1865.1053" timestamp="1579586624683" />
+    <state x="670" y="79" width="958" height="944" key="CommitChangelistDialog2/83.34.1837.1046@83.34.1837.1046" timestamp="1579067020530" />
+    <state x="731" y="257" width="530" height="598" key="FileChooserDialogImpl" timestamp="1579236320247">
+      <screen x="83" y="34" width="1837" height="1046" />
+    </state>
+    <state x="731" y="257" width="530" height="598" key="FileChooserDialogImpl/83.34.1837.1046@83.34.1837.1046" timestamp="1579236320247" />
+    <state width="1819" height="278" key="GridCell.Tab.0.bottom" timestamp="1579586611398">
+      <screen x="55" y="27" width="1865" height="1053" />
+    </state>
+    <state width="1819" height="278" key="GridCell.Tab.0.bottom/55.27.1865.1053@55.27.1865.1053" timestamp="1579586611398" />
+    <state width="1780" height="263" key="GridCell.Tab.0.bottom/83.34.1837.1046@83.34.1837.1046" timestamp="1579246117837" />
+    <state width="1819" height="278" key="GridCell.Tab.0.center" timestamp="1579586611397">
+      <screen x="55" y="27" width="1865" height="1053" />
+    </state>
+    <state width="1819" height="278" key="GridCell.Tab.0.center/55.27.1865.1053@55.27.1865.1053" timestamp="1579586611397" />
+    <state width="1780" height="263" key="GridCell.Tab.0.center/83.34.1837.1046@83.34.1837.1046" timestamp="1579246117836" />
+    <state width="1819" height="278" key="GridCell.Tab.0.left" timestamp="1579586611397">
+      <screen x="55" y="27" width="1865" height="1053" />
+    </state>
+    <state width="1819" height="278" key="GridCell.Tab.0.left/55.27.1865.1053@55.27.1865.1053" timestamp="1579586611397" />
+    <state width="1780" height="263" key="GridCell.Tab.0.left/83.34.1837.1046@83.34.1837.1046" timestamp="1579246117836" />
+    <state width="1819" height="278" key="GridCell.Tab.0.right" timestamp="1579586611397">
+      <screen x="55" y="27" width="1865" height="1053" />
+    </state>
+    <state width="1819" height="278" key="GridCell.Tab.0.right/55.27.1865.1053@55.27.1865.1053" timestamp="1579586611397" />
+    <state width="1780" height="263" key="GridCell.Tab.0.right/83.34.1837.1046@83.34.1837.1046" timestamp="1579246117837" />
+    <state x="474" y="223" width="1000" height="654" key="Vcs.Push.Dialog.v2" timestamp="1579583168215">
+      <screen x="55" y="27" width="1865" height="1053" />
+    </state>
+    <state x="474" y="223" key="Vcs.Push.Dialog.v2/55.27.1865.1053@55.27.1865.1053" timestamp="1579583168215" />
+    <state x="496" y="229" width="1000" height="654" key="Vcs.Push.Dialog.v2/83.34.1837.1046@83.34.1837.1046" timestamp="1579067034546" />
+    <state x="581" y="345" key="com.intellij.ide.util.TipDialog" timestamp="1579324813779">
+      <screen x="83" y="34" width="1837" height="1046" />
+    </state>
+    <state x="581" y="345" key="com.intellij.ide.util.TipDialog/83.34.1837.1046@83.34.1837.1046" timestamp="1579324813779" />
+  </component>
+</project>
