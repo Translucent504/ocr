@@ -1,5 +1,8 @@
 # ocr
-Trying out pytesseract
+- [ ] make animations in pygame for what you want the results to be automatically generated
+- [ ] read angela's phd thesis on text2scene
+- [ ] read spatialnet
+- [ ] read the rest of the papers on saul and spatial relation extraction
 
 ## References:
 - [Visually Guided Spatial Relation Extraction from Text](https://www.aclweb.org/anthology/N18-2124.pdf)
